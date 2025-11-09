@@ -2,7 +2,7 @@
 
 # Hola, Yo soy Francisco! 👋
 ## 🚀 Acerca de mi
-<p>Mi nombre es Francisco Santiago, <b>Ingeniero semi-senior en el desarrollo Front-end</b> con 3 años de experiencia en el desarrollo de páginas webs responsivos, escalables y de alta calidad basado en componentes utilizando tecnologías de vanguardia como <b>Adobe Experience Manager, React y Angular</b>, combinando mi pasión por la tecnología con un enfoque en la resolución de problemas y la entrega de soluciones innovadoras.</p>
+<p>Mi nombre es Francisco Santiago, <b>Ingeniero semi-senior en el desarrollo Front-end</b> con 4 años de experiencia en el desarrollo de páginas webs responsivos, escalables y de alta calidad basado en componentes utilizando tecnologías de vanguardia como <b>Adobe Experience Manager, React y Angular</b>, combinando mi pasión por la tecnología con un enfoque en la resolución de problemas y la entrega de soluciones innovadoras.</p>
 <p>Mis principales habilidades son</p>
 <ul>
   <li><b>Diseño y desarrollo:</b> Creación de interfaces de usuario personalizadas, interactivas y responsivas, siguiendo las últimas tendencias de diseño.</li>
